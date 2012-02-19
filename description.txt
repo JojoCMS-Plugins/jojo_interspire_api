@@ -1,0 +1,1 @@
+Installs the interspire API class and if jojo_cart is being used, will add any customers to the interspire newsletter.
